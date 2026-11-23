@@ -22,6 +22,18 @@ Meetups are free and open to developers, students and anyone interested in Java 
 
 ## Past meetups
 
+<ol class="history-list">
+  <li>
+    <p class="label">[Date of the meetup]</p>
+    <div>
+      <h3>[Talk title]</h3>
+      <p>[A sentence or two about the talk, and who gave it.]</p>
+    </div>
+  </li>
+</ol>
+
+[Add each past meetup here, with its date, talk title and description. Copy them from the Meetup page and send them through as a change request, and they will replace this placeholder.]
+
 Past meetups, and photos from them, are on our Meetup page as well.
 
 ## Give a talk
