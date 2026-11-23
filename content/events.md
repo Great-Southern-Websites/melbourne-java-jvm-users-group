@@ -3,6 +3,7 @@ title: "Events"
 description: "Upcoming meetups of the Melbourne Java and JVM Users Group are listed on Meetup, with the date, venue and talk for each one."
 layout: page
 eyebrow: "Events"
+aliases: ["/gallery/"]
 ---
 We meet four times a year in Melbourne CBD. Each meetup starts with pizza, then one talk on Java or the JVM.
 
@@ -95,7 +96,15 @@ Meetups are free and open to developers, students and anyone interested in Java 
   </li>
 </ol>
 
-Past meetups, and photos from them, are on our Meetup page as well.
+## Photos
+
+Photos from past meetups are on our Meetup page, alongside the event they were taken at.
+
+<p class="actions"><a class="btn btn-accent" href="https://www.meetup.com/melbourne-java-jvm-users-group/">See photos on Meetup</a></p>
+
+### Took a photo at a meetup?
+
+If you took photos at one of our meetups and are happy for us to show them here, let us know through the [contact page]({=site.url('contact')}).
 
 ## Give a talk
 
