@@ -2,20 +2,21 @@
 <header class="site-header">
   <div class="container bar">
     <a class="brand" href="{=site.url}">
-      <!-- BUILDER: replace with the logo, or leave a wordmark if there is none.
-           Two images, one per theme, and main.css swaps them:
-             <img class="logo-light" src="{=site.url('images/logo.png')}" alt="Melbourne Java &amp; JVM Users Group">
-             <img class="logo-dark" src="{=site.url('images/logo-dark.png')}" alt="Melbourne Java &amp; JVM Users Group">
-           Both carry the name: only one is ever visible, and a hidden image is not
-           announced, so the link has exactly one name in either theme. -->
-      <span class="brand-name">Melbourne Java &amp; JVM Users Group</span>
+      <img class="logo-light" src="{=site.url('images/logo.webp')}" alt="Melbourne Java &amp; JVM Users Group" width="600" height="338">
+      <img class="logo-dark" src="{=site.url('images/logo-dark.webp')}" alt="Melbourne Java &amp; JVM Users Group" width="600" height="338">
+      <span class="brand-name" aria-hidden="true">Melbourne Java &amp; JVM Users Group</span>
     </a>
     <input type="checkbox" id="nav-toggle" class="nav-toggle-input" aria-label="Toggle menu">
     <label for="nav-toggle" class="nav-toggle"><span></span></label>
     <nav class="site-nav" aria-label="Main navigation">
       <ul>
-        <!-- BUILDER: one <li> per page, mirroring the original site's navigation -->
         <li><a href="{=site.url}">Home</a></li>
+        <li><a href="{=site.url('about')}">About</a></li>
+        <li><a href="{=site.url('events')}">Events</a></li>
+        <li><a href="{=site.url('gallery')}">Gallery</a></li>
+        <li><a href="{=site.url('contact')}">Contact</a></li>
+        <li><a href="{=site.url('sponsors')}">Sponsors</a></li>
+        <li><a href="{=site.url('code-of-conduct')}">Code of Conduct</a></li>
       </ul>
     </nav>
   </div>
