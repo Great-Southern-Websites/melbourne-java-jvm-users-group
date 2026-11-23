@@ -4,7 +4,7 @@ description: "Who the Melbourne Java and JVM Users Group is for, what happens at
 layout: page
 eyebrow: "About the group"
 ---
-The Melbourne Java & JVM Users Group is a free quarterly meetup for Java and JVM developers in Melbourne. We get together four times a year in Melbourne CBD for a talk and pizza.
+The Melbourne Java & JVM Users Group is a free quarterly meetup for Java and JVM developers in Melbourne. We get together four times a year in Melbourne CBD for pizza and a talk.
 
 ## Who it is for
 
@@ -14,7 +14,7 @@ You do not need to be an expert to come along, and you do not need to bring anyt
 
 ## What happens at a meetup
 
-Each meetup has one talk, followed by pizza. The talk is the reason to come; the pizza and the chat afterwards are the reason to stay. It is a good place to ask questions, hear what other teams are doing and meet people who work with the same tools you do.
+Each meetup starts with pizza, and the talk follows. The talk is the reason to come; the pizza and the chat beforehand are the reason to get there early. It is a good place to ask questions, hear what other teams are doing and meet people who work with the same tools you do.
 
 ## How to join
 

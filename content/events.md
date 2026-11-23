@@ -4,7 +4,7 @@ description: "Upcoming meetups of the Melbourne Java and JVM Users Group are lis
 layout: page
 eyebrow: "Events"
 ---
-We meet four times a year in Melbourne CBD. Each meetup is one talk on Java or the JVM, followed by pizza.
+We meet four times a year in Melbourne CBD. Each meetup starts with pizza, then one talk on Java or the JVM.
 
 ## Upcoming meetups
 
@@ -14,9 +14,9 @@ Upcoming events are listed on our Meetup page. That is where you will find the d
 
 ## What a meetup looks like
 
-- A talk by someone who works with Java or the JVM.
-- Pizza once the talk is done.
+- Pizza to start.
 - Time to chat with the speaker and everyone else in the room.
+- A talk by someone who works with Java or the JVM.
 
 Meetups are free and open to developers, students and anyone interested in Java and the JVM.
 
