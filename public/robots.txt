@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://live.greatsouthern.website/melbourne-java-jvm-users-group/sitemap.xml
