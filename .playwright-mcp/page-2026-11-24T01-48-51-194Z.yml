@@ -1,0 +1,130 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img "Melbourne Java & JVM Users Group" [ref=e6]
+        - generic [aria-hidden] [ref=e7]: Melbourne Java & JVM Users Group
+      - checkbox "Toggle menu"
+      - navigation "Main navigation" [ref=e8]:
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link "Home" [ref=e11] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e12]:
+            - link "About" [ref=e13] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e14]:
+            - link "Events" [ref=e15] [cursor=pointer]:
+              - /url: /events
+          - listitem [ref=e16]:
+            - link "Contact" [ref=e17] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e18]:
+            - link "Sponsors" [ref=e19] [cursor=pointer]:
+              - /url: /sponsors
+          - listitem [ref=e20]:
+            - link "Code of Conduct" [ref=e21] [cursor=pointer]:
+              - /url: /code-of-conduct
+  - main [ref=e22]:
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - paragraph [ref=e26]: Java user group. Melbourne CBD.
+        - heading "A free quarterly meetup for Java and JVM developers in Melbourne" [level=1] [ref=e27]
+        - paragraph [ref=e28]: Pizza first, then one talk. Developers, students and anyone interested in Java and the JVM are welcome.
+        - generic [ref=e29]:
+          - link "Join us on Meetup" [ref=e30] [cursor=pointer]:
+            - /url: https://www.meetup.com/melbourne-java-jvm-users-group/
+          - link "About the group" [ref=e31] [cursor=pointer]:
+            - /url: /about
+      - generic "How a meetup runs" [ref=e32]:
+        - paragraph [ref=e34]: How a meetup runs
+        - generic [ref=e35]:
+          - term [ref=e36]: Format
+          - definition [ref=e37]: Pizza, then a talk
+          - term [ref=e38]: How often
+          - definition [ref=e39]: Four times a year
+          - term [ref=e40]: Where
+          - definition [ref=e41]:
+            - text: Melbourne CBD
+            - generic [ref=e42]: Venue details are on the Meetup page for each event
+          - term [ref=e43]: Cost
+          - definition [ref=e44]: Free
+          - term [ref=e45]: Who
+          - definition [ref=e46]: Developers, students and anyone interested in Java and the JVM
+    - generic [ref=e48]:
+      - paragraph [ref=e50]: 01What to expect
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - heading "Some pizza, a talk and a room full of people who work with the JVM" [level=2] [ref=e53]
+          - paragraph [ref=e54]: Each meetup starts with pizza, and time to chat with the speaker and the other people in the room. The talk follows, on Java or something else that runs on the JVM.
+          - paragraph [ref=e55]: The group is free to join and free to attend. You do not need to be an expert, and you do not need to be working in Java right now. Students and people who are simply curious about the JVM are as welcome as developers who use it every day.
+          - paragraph [ref=e56]:
+            - link "More about the group" [ref=e57] [cursor=pointer]:
+              - /url: /about
+        - 'img "Melbourne Java & JVM Users Group mascot: Duke in a footy guernsey, holding a football" [ref=e59]'
+    - generic [ref=e61]:
+      - paragraph [ref=e63]: 02Next meetup
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - heading "Dates, talks and venues are announced on Meetup" [level=2] [ref=e66]
+          - paragraph [ref=e67]: We meet four times a year in Melbourne CBD. The date, the venue and the talk for each meetup are posted on our Meetup page, and that is also where you RSVP. Joining the group there means you hear about each meetup as soon as it is announced.
+          - link "See upcoming events on Meetup" [ref=e69] [cursor=pointer]:
+            - /url: https://www.meetup.com/melbourne-java-jvm-users-group/
+        - generic [ref=e71]:
+          - paragraph [ref=e72]: Want to give a talk or help out?
+          - paragraph [ref=e73]:
+            - text: If you have a talk in you, or your company could host a meetup or help with the pizza, we would like to hear from you. Use the
+            - link "contact page" [ref=e74] [cursor=pointer]:
+              - /url: /contact
+            - text: and we will get back to you.
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - paragraph [ref=e78]: Everyone welcome
+        - heading "Come along to the next one" [level=2] [ref=e79]
+        - paragraph [ref=e80]: Join the group on Meetup to see the next date and RSVP. There is no cost, and no need to be a member of anything else.
+      - generic [ref=e81]:
+        - link "Join us on Meetup" [ref=e82] [cursor=pointer]:
+          - /url: https://www.meetup.com/melbourne-java-jvm-users-group/
+        - link "Read the code of conduct" [ref=e83] [cursor=pointer]:
+          - /url: /code-of-conduct
+  - contentinfo [ref=e84]:
+    - generic [ref=e85]:
+      - generic [ref=e86]:
+        - paragraph [ref=e87]: Melbourne Java & JVM Users Group
+        - paragraph [ref=e88]: A free quarterly meetup for Java and JVM developers in Melbourne, with pizza and a talk.
+        - paragraph [ref=e89]: Melbourne CBD
+      - generic [ref=e90]:
+        - paragraph [ref=e91]: Pages
+        - list [ref=e92]:
+          - listitem [ref=e93]:
+            - link "About" [ref=e94] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e95]:
+            - link "Events" [ref=e96] [cursor=pointer]:
+              - /url: /events
+          - listitem [ref=e97]:
+            - link "Contact" [ref=e98] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e99]:
+            - link "Sponsors" [ref=e100] [cursor=pointer]:
+              - /url: /sponsors
+          - listitem [ref=e101]:
+            - link "Code of Conduct" [ref=e102] [cursor=pointer]:
+              - /url: /code-of-conduct
+      - generic [ref=e103]:
+        - paragraph [ref=e104]: Find us
+        - list [ref=e105]:
+          - listitem [ref=e106]:
+            - link "Meetup page" [ref=e107] [cursor=pointer]:
+              - /url: https://www.meetup.com/melbourne-java-jvm-users-group/
+    - generic [ref=e109]:
+      - paragraph [ref=e110]: © Melbourne Java & JVM Users Group. All rights reserved.
+      - paragraph [ref=e111]:
+        - text: This website is sponsored by
+        - link "Great Southern Websites" [ref=e112] [cursor=pointer]:
+          - /url: https://greatsouthern.website
+        - text: .
+  - button "Switch to dark theme" [ref=e113] [cursor=pointer]
