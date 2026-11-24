@@ -16,7 +16,7 @@ Harassment of any kind is not acceptable. That includes offensive comments about
 
 ## If something goes wrong
 
-If you see or experience behaviour that breaks this code, tell an organiser at the meetup, or send us a message through the [contact page]({=site.url('contact')}). We will listen, take it seriously and keep what you tell us private.
+If you see or experience behaviour that breaks this code, tell an organiser at the meetup, email us at [info@melbournejug.org](mailto:info@melbournejug.org), or send us a message through the [contact page]({=site.url('contact')}). We will listen, take it seriously and keep what you tell us private.
 
 Anyone asked to stop unacceptable behaviour is expected to do so at once. Organisers may ask anyone who breaks this code to leave the meetup, and may ask them not to return.
 
